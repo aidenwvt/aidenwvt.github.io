@@ -1,7 +1,7 @@
 ---
 title: "Embedded Systems UTA"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 venue: "Virginia Tech, ECE Department"
 date: 2024-08-23
 location: "Blacksburg, Virginia"
