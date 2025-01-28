@@ -11,41 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelors in Computer Engineering with a focus in Networking in Cybersecurity, Virginia Tech, 2026 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* Fall 2024 - Current: Embedded Systems UTA
+  * Virginia Tech
+  * Responsible for reinforcing and teaching concepts, project development, and course upkeep
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2024 - Current: Raytheon Development Program
+  * Collins Aerospace at Virginia Tech
+  * Currently enrolled in a development program that teaches Linux, security, and networking concepts in preparation for a summer internship
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C, C#, C++, Python, Verilog, Markdown, JSON
+* Github, Git, Office Products
 
-Publications
+Certifications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* August 2023 - Security++
+  * Increased understanding of threats and vulnerabilities. Acquired new skills in cloud security and how to implement policies and enforce them
+* May 2021 - Network+
+  * Obtained a strong foundation in network protocols, while learning the structure of the internet and how it communicates with devices. I learned how to set up and operate multiple devices to include routers, ACLs, NGFWs, and switches.
+
   
 Talks
 ======
