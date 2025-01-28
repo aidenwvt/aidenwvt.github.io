@@ -1,6 +1,6 @@
 ---
 title: "Wireless Sensor Node"
-excerpt: "The final result of our semester-long product<br/><img src='/images/WSN.png'>"
+excerpt: "The final result of our semester-long product in developing a closed-loop circuit<br/><img src='/images/WSN.png'>"
 collection: portfolio
 ---
 
