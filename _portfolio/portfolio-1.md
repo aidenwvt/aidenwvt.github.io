@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Wireless Sensor Node"
+excerpt: "The final result of our semester-long product<br/><img src='/images/WSN.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Designed a closed loop circuit capable of fully charging a battery using an Arduino Uno, detecting the temperature of the surrounding environment using a thermistor, and transmitting data via bluetooth.
