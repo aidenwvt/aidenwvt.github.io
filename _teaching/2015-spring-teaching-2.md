@@ -1,7 +1,7 @@
 ---
 title: "Embedded Systems UTA/Team Coordinator"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 venue: "Virginia Tech, ECE Department"
 date: 2025-01-16
 location: "Blacksburg, Virginia"
