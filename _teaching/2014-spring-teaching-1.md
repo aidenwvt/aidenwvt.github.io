@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Embedded Systems UTA"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Virginia Tech, ECE Department"
+date: 2024-08
+location: "Blacksburg, Virginia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Responsible for assisting in teaching embedded software concepts to over 170 kids. Including but not limited to timers, good coding practices, serial communication protocols, interrupts, and more. Additionally responsible for developing projects for students to complete based on the previous concepts mentioned. 
