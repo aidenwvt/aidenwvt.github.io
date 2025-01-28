@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Embedded Systems UTA/Team Coordinator"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Virginia Tech, ECE Department"
+date: 2025-01-16
+location: "Blacksburg, Virginia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Alongside my previous duties of being an Embedded Systems UTA, I am additionally repsonsible for overseeing the schedule for each TA, onboarding new TAs, answering any questions, and assisting the teacher with coursework outside of normal TA responsibilities.
